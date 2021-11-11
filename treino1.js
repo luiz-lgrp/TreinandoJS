@@ -1,4 +1,3 @@
-
 // 7 TIPOS DE DADOS
 
 // Declare uma variável contendo uma string
@@ -29,4 +28,4 @@ var frase = "It's time"
 
 // Verifique o tipo da variável que contém o seu nome
 
-console.log(typeof nomeCompleto)
+//console.log(typeof nomeCompleto)
